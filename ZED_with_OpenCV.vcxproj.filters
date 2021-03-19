@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="I:\TEXT\ZED\zed-opencv-master\cpp\src\SaveDepth.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="I:\TEXT\ZED\zed-opencv-master\cpp\src\main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="I:\TEXT\ZED\zed-opencv-master\cpp\include\SaveDepth.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="I:\TEXT\ZED\zed-opencv-master\cpp\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{BD440E21-4EA4-370C-B951-6167806A3430}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{26A71251-0E86-3170-A836-EBB330939D4E}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
